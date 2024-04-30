@@ -1,4 +1,4 @@
-![Alt text](/Host-a-Dynamic-Web-App-on-AWS-with-Docker-Amazon-ECR-and-Amazon-ECS.png)
+![Alt text](/Host_a_Dynamic_Web_App_on_AWS_with_Docker_Amazon_ECR_and_Amazon_ECS.png)
 
 
 
